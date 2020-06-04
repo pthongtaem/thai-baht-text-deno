@@ -1,4 +1,4 @@
-# Thai Baht Text for Deno
+# Thai Baht Text for Deno version 1.0.0
 
 Convert number to Thai Baht as Text
 
