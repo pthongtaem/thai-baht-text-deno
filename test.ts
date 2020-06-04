@@ -2,9 +2,6 @@ import { assertEquals } from 'https://deno.land/std/testing/asserts.ts';
 import { ThaiBaht } from './mod.ts';
 
 Deno.test('should be a function', () => {
-  // console.log(typeof ThaiBaht);
-  // console.log('don');
-  // const x = 1 + 2;
   assertEquals(typeof ThaiBaht, 'function');
 });
 
